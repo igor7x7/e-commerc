@@ -1,0 +1,75 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "photo": "https://s1.static.brasilescola.uol.com.br/be/imagens/artes/monalisa1000.jpg",
+            "description": "Sorriso eterno",
+            "name": "Monaliza",
+            "price": 78000
+        },
+        {
+            "id": 2,
+            "photo": "https://www.crio.art/wp-content/uploads/2021/03/img-crio-art-todo-mundo-esta-falando-de-nft-art-e-crypto-art-valendo-milhoes-mas-o-que-e-isso-2.jpg",
+            "description": "Rocket man",
+            "name": "Astronauta",
+            "price": 38000
+        },
+        {
+            "id": 3,
+            "photo": "https://img.jakpost.net/c/2021/04/05/2021_04_05_112032_1617600943._medium.jpg",
+            "description": "Fofo macabro",
+            "name": "Musical",
+            "price": 15000
+        },
+        {
+            "id": 4,
+            "photo": "https://static01.nyt.com/images/2021/07/24/business/23wealth/23wealth-superJumbo.jpg",
+            "description": "Nostalgico",
+            "name": "Space Jam",
+            "price": 900000
+        },
+        {
+            "id": 5,
+            "photo": "https://images.squarespace-cdn.com/content/v1/5d77a6d38f38ab6fe99fe76d/1616067846530-OFYKYX2RAYKG1LGQ5V6K/WORLDART_Norman+O%27Flynn_Timekeeper+151_150x100cm.jpg?format=1000w",
+            "description": "Mural",
+            "name": "Natasha",
+            "price": 2000
+        },
+        {
+            "id": 6,
+            "photo": "https://images.squarespace-cdn.com/content/v1/604ebcd517497771afc07c4e/1618676523473-TRIO0BES5YUOCQ88ORCX/boyega+%282%29.jpg",
+            "description": "Tudo bem",
+            "name": "Zumbala",
+            "price": 25000
+        },
+        {
+            "id": 7,
+            "photo": "http://2.bp.blogspot.com/-q9lmUAXF9TE/ToZIS7n2gnI/AAAAAAAAAA0/OmhpSxzRNo8/s1600/Dark_Magician.jpg",
+            "description": "Magia negra",
+            "name": "Mago negro",
+            "price": 1000000 
+        },
+        {
+            "id": 8,
+            "photo": "https://api.time.com/wp-content/uploads/2021/03/nft-art-6.jpg",
+            "description": "Brilho cosmico",
+            "name": "Kambala",
+            "price": 23000
+        },
+        {
+            "id": 9,
+            "photo": "https://ipfs.pixura.io/ipfs/QmY6bvdRrJnVwgqAb5ZJnWBdcverqhMgLBVz1Y2yhjGvGq/IMB_FhzIUa.GIF",
+            "description": "Frenezi",
+            "name": "Equalize",
+            "price": 35000
+        },
+        {
+            "id": 10,
+            "photo": "https://pbs.twimg.com/media/Ex5aEuFW8AIJ-0l.jpg",
+            "description": "Lapsu",
+            "name": "Nodle",
+            "price": 45000
+        }
+    ]
+}
+
